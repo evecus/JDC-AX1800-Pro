@@ -253,14 +253,13 @@ CONFIG_PACKAGE_sudo=y
 
 
 # 关机poweroff
-#nCONFIG_PACKAGE_luci-app-poweroff=y
+#CONFIG_PACKAGE_luci-app-poweroff=y
 
 # 分区扩容
 CONFIG_PACKAGE_luci-app-partexp=y
 
 # 主题界面edge
 #CONFIG_PACKAGE_luci-theme-edge=y
-n
 # 文件浏览器filebrowser-go
 CONFIG_PACKAGE_luci-app-filebrowser-go=y
 
